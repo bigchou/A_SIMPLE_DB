@@ -1,0 +1,5 @@
+Alice F 20 100 90 80
+Cindy F 19 99 88 77
+Cindy M 1 1 1 1
+David M 25 100 100 100
+John M 22 90 86 94

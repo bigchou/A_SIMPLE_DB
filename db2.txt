@@ -1,0 +1,12 @@
+bag M 1 1 1 1
+DAC M 2 2 2 2
+ABC M 3 3 3 3
+CBAD M 4 4 4 4
+CBDA M 5 5 5 5
+CDAB M 6 6 6 6
+CDBA M 7 7 7 7
+CADB M 8 8 8 8
+CABD M 9 9 9 9
+
+
+

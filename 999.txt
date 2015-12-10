@@ -1,0 +1,4 @@
+amy M 1 2 3 4
+bitch f 1 2 3 4
+gimmy f 2 2 1 3
+zebra f 2 2 2 2
